@@ -19,3 +19,5 @@ Rubber Ducky Payloads: https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Paylo
 Digispark Payloads: https://github.com/PlatyPooper/Digispark-Duckduino
 
 Rubber Ducky Payload to Digispark Keyboard Program: https://github.com/toxydose/Duckyspark 
+
+DuckyScript: https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript
